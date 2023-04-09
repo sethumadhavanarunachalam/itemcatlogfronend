@@ -1,0 +1,51 @@
+
+
+.input-box{
+    background-image: url("https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8&w=1000&q=80");
+    height: 1000vh;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-size: 300vh;
+}
+
+.inputbtn{
+    width: 200px;
+    height: 50px;
+    margin: auto 250px;
+    border-radius: 18px;
+    border: solid 1px ;
+    background-color: #208fff  ;
+    font-size: 20px;
+    
+}
+.inputbtn:hover{
+   transform: scale(1.09);
+}
+.Backbtn:hover{
+    transform:scale(1.09)
+}
+.Backbtn{
+    height: 30px;
+    width: 70px;
+    border-radius: 18px;
+    border-style: none;
+    background-color: lightskyblue;
+}
+.inputback{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top:  100px;
+
+    /* background-color:#208fff ; */
+}
+.inputsty{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 700px;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}

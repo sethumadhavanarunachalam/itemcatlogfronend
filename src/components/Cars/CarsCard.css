@@ -1,0 +1,21 @@
+.movie-container{
+    /* padding:40px; */
+    width: 300px;
+  }
+.carname{
+     font-size: 22px;
+  }
+  .carrate{
+    font-size: 18px;
+  }
+.carimg{
+  height: 200px;
+}
+  .movie-container:hover{
+     transform: scale(1.09);
+  }
+
+  .carsbtn{
+    height: 30px;
+    width: 70px;
+  }
